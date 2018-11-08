@@ -1,6 +1,6 @@
-Django Project Structure
+# Django Project Structure
 
-## How to run
+### How to run
 
 ```
 git clone https://github.com/kenanbek/tutorial-django-project-structure
